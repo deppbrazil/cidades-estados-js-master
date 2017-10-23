@@ -1,7 +1,4 @@
-# Cidades e Estados com vetor em JavaScript
-
-cidades-estados-js 
-___
+# Cidades e Estados com JavaScript
 
 * Biblioteca em Javascript para apresentar cidade com base no Estado selecionado
 
