@@ -1,0 +1,27 @@
+{
+  "name": "cidades-estados-js-master",
+  "version": "1.0.0",
+  "description": "states city ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deppbrazil/cidades-estados-js-master.git"
+  },
+  "keywords": [
+    "states",
+    "city",
+    "javascript"
+  ],
+  "author": "Mir Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deppbrazil/cidades-estados-js-master/issues"
+  },
+  "homepage": "https://github.com/deppbrazil/cidades-estados-js-master#readme",
+  "devDependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
